@@ -1,1 +1,6 @@
 # Break-the-Block-game
+[Break the Block Game](https://github.com/ParkerJ30/Break-the-Block-game) 
+
+<img src="https://github.com/ParkerJ30/Break-the-Block-game/blob/main/Screen%20Shot%202021-01-11%20at%207.22.32%20PM.png" height="500" width="260"><img src="https://github.com/ParkerJ30/Break-the-Block-game/blob/main/Screen%20Shot%202021-01-11%20at%207.09.59%20PM.png" height="500" width="320"><img src="https://github.com/ParkerJ30/Break-the-Block-game/blob/main/Screen%20Shot%202021-01-11%20at%207.10.09%20PM.png" height="500" width="250">
+
+This was the first app I created by myself in APCSP. The pictures above show cases the three levels in the game. In this game you use your finger to drag the rectangle along the screen and use it as a trampoline. A ball will fly around and you have to keep it from hitting the bottom by using the trampoline. As the ball bounces around it will destroy the mines in this level. Once all the mines are broken you win the game. This was one of the first games I learned to use sprites. It was a little complicated to get the ball to move randomly and for it to react to the other sprites by bouncing off of them. But eventually I got it and it was a great achievment for me using sprites. I created this app using MIT App Inventor.
